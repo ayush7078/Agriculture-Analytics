@@ -43,13 +43,15 @@ Yarn (or npm)
 Steps
 Clone the repository:
 git clone https://github.com/ayush7078/Agriculture-Analytics.git
+
 cd AgricultureAnalytics
-Install dependencies:
 
+# Install dependencies:
 yarn install
-Start the development server:
 
-yarn dev
+Start the development server:
+ yarn dev
+
 Open your browser and go to http://localhost:5173/ to view the app.
 
 # Usage
