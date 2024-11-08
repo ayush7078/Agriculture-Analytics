@@ -42,7 +42,7 @@ Yarn (or npm)
 
 Steps
 Clone the repository:
-git clone 
+git clone https://github.com/ayush7078/Agriculture-Analytics.git
 cd AgricultureAnalytics
 Install dependencies:
 
@@ -75,6 +75,3 @@ The data used in this project comes from the National Data and Analytics Platfor
 # Project Details
 Developed By: Ayush Porwal
 Email: ayushporwal7078@gmail.com
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
